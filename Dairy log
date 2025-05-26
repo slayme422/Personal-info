@@ -32,8 +32,8 @@ Edit Preview
 - 
 ## 2025-05-26
 —(CS61A) lecture5 completed (it was bit hard) (Higheroderfunction,Curry,Environment(What is Global Frame, Object and how to use graph?))
--full-understand the concept of return:sometimes return a value or a tool;
--evening finish a leetcode 128(mid leevl) by using Java
+-full-understand the concept of return:sometimes return a value or a tool;(有时候返回的事结果，或者一个带状态的工具)
+-evening finish a leetcode 128(mid leevl) by using Java(考察了set去重复，set是无序无重复无索引，利用current变量记录set遍里出来的值)
 - 
 - 
 
