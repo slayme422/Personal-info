@@ -33,7 +33,11 @@ Edit Preview
 ## 2025-05-26
 —(CS61A) lecture5 completed (it was bit hard) (Higheroderfunction,Curry,Environment(What is Global Frame, Object and how to use graph?))
 -full-understand the concept of return:sometimes return a value or a tool;(有时候返回的事结果，或者一个带状态的工具)
--evening finish a leetcode 128(mid leevl) by using Java(考察了set去重复，set是无序无重复无索引，利用current变量记录set遍里出来的值)
+-evening finish a leetcode 128(mid level) by using Java(考察了set去重复，set是无序无重复无索引，利用current变量记录set遍里出来的值)
 - workout (shoulder)
 - 
+-
+## 2025-05-27
+—(CS61A) Project1 <HOG> All problem completed
+-evening finish a leetcode 11(mid level) by using Java(考察了双指针，贪心算法)
 
