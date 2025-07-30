@@ -135,3 +135,7 @@ Edit Preview
 -beging to do scheme project
 -get a basic knowledge from tutorial about TouchDesigner(which is a audio visual program)
 -了解了什么是bpm，怎么讲提取音乐的特征，比如音乐的beat通过 Chop Math kick(limit) Spectrum Lag NUll来获取音乐特征,之后在Export（移动文件）让一个球变大或者缩小。
+
+##2025-07-30
+- (CS61A)
+- (morning (review lecture 27))
